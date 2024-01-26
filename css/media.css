@@ -1,0 +1,177 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+   header{
+   padding: 0px 40px 0px 20px;    
+  background-size: 100% 800px;
+}
+  .info{
+  margin-top: 15px;
+}
+.infoh2{
+  font-size: 20px;
+}
+.infoh1{
+  font-size: 40px;
+}
+.infoa{
+  font-size: 15px;
+  letter-spacing: 15px;
+}
+.car{
+  margin-top: 15px;
+  width: 400px;
+  height: 200px;
+}
+.formm {
+  height: 1060px;
+}
+.frmrg{
+  padding-top: 50px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.frmcontent{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.right {
+  margin-right: 4px;
+}
+.content {
+  background-size: 100% 1252px;
+}
+.testim {
+  background-size: 100% 1232px;
+}
+.cntcth3 {
+  font-size: 16px;
+  letter-spacing: 3px;
+}
+.cntcth1 {
+  font-size: 32px;
+}
+.bfooter{
+  padding: 30px 40px 0px 0px;
+  background-size: 100% 1028px;
+
+}
+}
+
+   
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   header{
+  background-size: 100% 600px;
+}
+  .info{
+  margin-top: 15px;
+}
+.infoh2{
+  font-size: 20px;
+}
+.infoh1{
+  font-size: 40px;
+}
+.infoa{
+  font-size: 15px;
+  letter-spacing: 15px;
+}
+.car{
+  margin-top: 15px;
+  width: 500px;
+  height: 300px;
+}
+
+  }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  header{
+  padding: 26px 0;
+ }
+  .info{
+  margin-top: 15px;
+}
+.infoh2{
+  font-size: 25px;
+}
+.infoh1{
+  font-size: 45px;
+}
+.infoa{
+  font-size: 20px;
+  letter-spacing: 15px;
+}
+.car{
+  margin-top: 20px;
+  width: 600px;
+  height: 400px;
+}
+.formm {
+  height: 890px;
+}
+.frmcontent{
+  text-align: center;
+  margin-bottom: 10px;
+}
+.right {
+
+  margin-top: 40px;
+  margin-right: 167px;
+}
+.bfooter{
+  padding: 60px 0px 22px 0px;
+
+}
+
+
+  }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+  .info{
+  margin-top: 15px;
+}
+.infoh2{
+  font-size: 25px;
+}
+.infoh1{
+  font-size: 50px;
+}
+.infoa{
+  font-size: 20px;
+  letter-spacing: 15px;
+}
+
+.car{
+  margin-top: 20px;
+  width: 800px;
+  height: 500px;
+}
+.formm {
+  height: 636px;
+}
+
+.right{
+  margin-top: 100px;
+}
+.card {
+  padding: 0;
+}
+.content { 
+    padding: 50px 0px 0px 124px;
+}
+
+  }
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  }
+
+/* Extra Extra  large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+  }
